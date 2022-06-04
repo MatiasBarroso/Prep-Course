@@ -141,6 +141,7 @@ function buscoInterseccion(arreglo1, arreglo2){
     }
   }
 
+  
   return array3;
 }
 
