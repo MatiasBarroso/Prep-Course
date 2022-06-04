@@ -31,6 +31,7 @@ function numberOfCharacters(string) {
     }
   }
   return objeto;
+  
 }
 
 function capToFront(s) {
